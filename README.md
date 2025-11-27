@@ -1,4 +1,4 @@
-# 📊 UAE Rental Market Dashboard
+# 📊 UAE Real Estate Rental Market Dashboard
 
 ## 📌 Overview
 The **UAE Rental Market Dashboard** provides a comprehensive analysis of rental trends across the United Arab Emirates.  
