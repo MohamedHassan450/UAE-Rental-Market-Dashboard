@@ -6,10 +6,11 @@ It is designed to support decision-making for real estate professionals, investo
 
 Built with **SQL, ETL pipelines, DAX, Power BI, and Excel**, the dashboard ensures data accuracy, dynamic filtering, and visually authentic reporting aligned with professional standards.
 ---
-![WhatsApp Image 2025-11-27 at 11 53 45_fea7b0eb](https://github.com/user-attachments/assets/0efcace1-bdda-4a28-9b5e-a1d506143eb1)
-![WhatsApp Image 2025-11-27 at 11 54 07_0e85366d](https://github.com/user-attachments/assets/85728d89-5300-4528-81e0-49be606b9fbf)
-![WhatsApp Image 2025-11-27 at 11 54 29_d0e11c1b](https://github.com/user-attachments/assets/93a5fd4a-de5f-4640-8f1a-1b8d70f8d2b6)
+<img width="1436" height="808" alt="Screenshot 2025-12-09 074100" src="https://github.com/user-attachments/assets/e002bcd0-88d8-4980-bd7d-19bcb0874ad2" />
+<img width="1441" height="807" alt="Screenshot 2025-12-09 074131" src="https://github.com/user-attachments/assets/8d2f9d0b-5797-467c-ae4e-bdd7f83cb14f" />
+<img width="1436" height="807" alt="Screenshot 2025-12-09 074155" src="https://github.com/user-attachments/assets/cf5d57ab-d73f-4a06-86bb-aad4c8d8c4d6" />
 ---
+
 
 ## ⚙️ Technology Stack
 - **SQL** → Data extraction and transformation from source systems  
