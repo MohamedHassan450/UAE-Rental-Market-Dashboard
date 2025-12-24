@@ -6,9 +6,9 @@ It is designed to support decision-making for real estate professionals, investo
 
 Built with **SQL, ETL pipelines, DAX, Power BI, and Excel**, the dashboard ensures data accuracy, dynamic filtering, and visually authentic reporting aligned with professional standards.
 ---
-<img width="1436" height="808" alt="Screenshot 2025-12-09 074100" src="https://github.com/user-attachments/assets/e002bcd0-88d8-4980-bd7d-19bcb0874ad2" />
-<img width="1441" height="807" alt="Screenshot 2025-12-09 074131" src="https://github.com/user-attachments/assets/8d2f9d0b-5797-467c-ae4e-bdd7f83cb14f" />
-<img width="1436" height="807" alt="Screenshot 2025-12-09 074155" src="https://github.com/user-attachments/assets/cf5d57ab-d73f-4a06-86bb-aad4c8d8c4d6" />
+<img width="1307" height="733" alt="1" src="https://github.com/user-attachments/assets/18c8777f-6a0f-4999-aa80-6bdeaeeff678" />
+<img width="1310" height="737" alt="2" src="https://github.com/user-attachments/assets/b4f81e5d-e9e9-4e69-b902-7e1ff122550c" />
+<img width="1305" height="734" alt="3" src="https://github.com/user-attachments/assets/d492e6dd-d3d6-412f-82c4-7f929d324830" />
 ---
 
 
