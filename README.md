@@ -5,12 +5,12 @@ The **UAE Rental Market Dashboard** provides a comprehensive analysis of rental 
 It is designed to support decision-making for real estate professionals, investors, and analysts by offering clear, interactive insights into market performance.
 
 Built with **SQL, ETL pipelines, DAX, Power BI, and Excel**, the dashboard ensures data accuracy, dynamic filtering, and visually authentic reporting aligned with professional standards.
----
-<img width="1307" height="733" alt="1" src="https://github.com/user-attachments/assets/18c8777f-6a0f-4999-aa80-6bdeaeeff678" />
-<img width="1310" height="737" alt="2" src="https://github.com/user-attachments/assets/b4f81e5d-e9e9-4e69-b902-7e1ff122550c" />
-<img width="1305" height="734" alt="3" src="https://github.com/user-attachments/assets/d492e6dd-d3d6-412f-82c4-7f929d324830" />
----
 
+---
+<img width="1307" height="736" alt="UAE 1" src="https://github.com/user-attachments/assets/e017fd73-3f59-45eb-9f23-e26cf2a533a9" />
+<img width="1306" height="736" alt="UAE 2" src="https://github.com/user-attachments/assets/563483df-bc03-4a4c-bd87-7556b5de2bc9" />
+<img width="1310" height="736" alt="UAE 3" src="https://github.com/user-attachments/assets/bd63c2e8-88ff-43fd-a7d7-2cfec2f765a9" />
+---
 
 ## ⚙️ Technology Stack
 - **SQL** → Data extraction and transformation from source systems  
